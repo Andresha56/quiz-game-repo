@@ -7,7 +7,6 @@
 }
 body{
     background-color: rgb(103, 112, 112);
-    /* background-color: black; */
 }
 
 h2,h3{
@@ -51,7 +50,6 @@ main #game-con, #playAgain{
     width: 500px;
     max-width: 70vh;
     background-color: rgb(209, 216, 223);
-    /* background-color: rgb(4, 23, 43); */
     border: 1px solid rgb(255, 238, 238);
     padding: 20px 20px 50px 20px;
     display: block;
