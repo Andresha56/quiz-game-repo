@@ -43,7 +43,7 @@ main #container{
     text-align: center;
 
 }
-main #game-con, #playAgain{
+main #game-con{
     position: relative;
     border-radius: 5px;
     height:auto;
@@ -102,9 +102,10 @@ main #container #game-con ul li label{
     display: none;
     margin: auto;
     text-align: center;
+    background-color: rgb(209, 216, 223);
+    border-radius: 5px;
+    height:auto;
+    width: 80vw;
+    padding: 20px 10px 30px 10px;
 
 } 
-#playAgain{
-
-border: 2px solid rgb(250, 237, 237);
-}
